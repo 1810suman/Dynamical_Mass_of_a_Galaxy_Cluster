@@ -10,7 +10,7 @@
 <h2>📂 Project Contents</h2>
 <ul>
   <li><b>Dynamical_Mass_of_a_Galaxy_Cluster.ipynb</b> - Jupyter Notebook with full calculations, plots, and interpretations</li>
-  <li><b>SDSS_Cluster_SQL_Query.txt</b> - Contains the SQL script used to extract the galaxy data from SDSS SkyServer</li>
+  <li><b>sdss_cluster_data.csv</b> - Contains the SQL script used to extract the galaxy data from SDSS SkyServer</li>
   <li><b>requirements.txt</b> - List of Python dependencies</li>
   <li><b>README.md</b> - Project overview and instructions</li>
 </ul>
